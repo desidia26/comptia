@@ -58,27 +58,24 @@
 
 ---
 
-## Viruses and Trojans
-
-
-
----
-
 ## Ransomware
 
-
+- Malware that restricts access to a victims computer until a ransom is received
 
 ---
 
 ## Spyware
 
-
+- Malware that secretly gathers information about the user without their consent.
 
 ---
 
 ## Rootkits
 
-
+- Specific type of software designed to be given admin over the target machine.
+- __DLL Injection__
+- __Shim__
+- __Driver Manipulation__
 
 ---
 ## Spam
@@ -89,3 +86,10 @@
 
 ## Terms
 
+- __Grayware:__ Software that isn't benign nor malicious, and tends to behave
+  improperly without serious consequences.
+- __DLL Injection:__ Malicious code is inserted into a running process on a
+  Windows machine by takin advantage of Dynamic Link Libraries that are loaded
+  at runtime.
+- __Shim__:__ software placed between two components to intercept calls
+  and redirect them.
